@@ -342,8 +342,8 @@
 
 /* footer item */
 .footerpart-contain{
-    background: rgba(255, 144, 14, 0.1);
-    /* background: sandybrown; */
+    /* background: rgba(255, 144, 14, 0.1); */
+    background: sandybrown;
     height: 70px;  
 }
 .footerpart{
@@ -411,6 +411,14 @@
         margin-left: 20%;
         margin-top: 0px;
     }
+    .footer-discription{
+        font-size: 12px;
+        width: 40%;
+        
+    }
+    .footerpart-contain{
+        height: 100px;  
+    }
 
 }
 
@@ -466,7 +474,14 @@
          margin-left: 20%;
          margin-top: 0px;
      }
-
+     .footer-discription{
+        font-size: 12px;
+        width: 40%;
+        
+    }
+    .footerpart-contain{
+        height: 100px;  
+    }
 
 
 }
