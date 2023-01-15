@@ -329,21 +329,10 @@
     height: 150px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
 /* footer item */
 .footerpart-contain{
-    /* background: rgba(255, 144, 14, 0.1); */
-    background: sandybrown;
+    background: rgba(255, 144, 14, 0.1);
+    /* background: sandybrown; */
     height: 70px;  
 }
 .footerpart{
